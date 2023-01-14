@@ -2,25 +2,20 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/laxmi-ganji-803665245/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/ganji_laxmi">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+
 </div>
 <img src="https://komarev.com/ghpvc/?username=LaxmiGanji&style=flat-square&color=blue" alt=""/>
 <h1>
-  hey there
- 
+ <h1 align="center">Hi 👋, I'm Laxmi</h1>
+<h3 align="center">I'm passionate about full stack devolopement.</h3>
 
-I am passionate about full stack devolopment <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m student studying computer science Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- 🏫I'm currently studying as **a student(computer science).**
 
-- :zap: In my free time, I solve problems and read tech articles.
+- 🌱 I’m currently learning **programing languages**
+
+- 📫 How to reach me **laxmiganji2005@gmail.com**
+
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laxmi-ganji-803665245/)
 
@@ -46,7 +41,7 @@ I am passionate about full stack devolopment <img src="https://media.giphy.com/m
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LaxmiGanji&theme=dark&hide_border=false)<br/>
-username=LaxmiGanji&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LaxmiGanji&theme=radical&no-frame=false&no-bg=false&margin-w=4)
