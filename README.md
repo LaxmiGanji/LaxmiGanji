@@ -17,8 +17,6 @@
 - 📫 How to reach me **laxmiganji2005@gmail.com**
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laxmi-ganji-803665245/)
-
 <div>
   <h3 align="left">
     Connect with me:
