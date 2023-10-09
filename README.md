@@ -50,6 +50,7 @@
        height="30" 
        width="40" />
   </a>
+  
 <a href="https://www.hackerearth.com/https://www.hackerearth.com/@laxmiganji2005" 
    target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
