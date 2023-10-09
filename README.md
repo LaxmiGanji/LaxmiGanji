@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=LaxmiGanji&style=flat-square&color=blue" alt=""/>
 <h1>
  <h1 align="center">Hi 👋, I'm Laxmi</h1>
-<h3 align="center">I'm passionate about full stack devolopement.</h3>
+
 
 
 - 🏫I'm currently studying as **a student(computer science).**
