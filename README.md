@@ -12,8 +12,6 @@
 
 - 🏫I'm currently studying as **a student(computer science).**
 
-- 🌱 I’m currently learning **programing languages**
-
 - 📫 How to reach me **laxmiganji2005@gmail.com**
 
 
