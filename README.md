@@ -62,8 +62,13 @@
 
 ## 📈 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LaxmiGanji&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmiGanji&layout=compact&theme=radical)  
+<div align="center" style="margin-top: 20px; margin-bottom: 20px; perspective: 1000px;">
+  <div style="transform: rotateY(5deg); animation: float 4s ease-in-out infinite; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=LaxmiGanji&show_icons=true&theme=gruvbox&hide_border=true&border_radius=12&title_color=ff6600&icon_color=ff6600" width="45%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmiGanji&layout=compact&theme=gruvbox&hide_border=true&border_radius=12&title_color=ff6600" width="45%" alt="Top Languages" />
+  </div>
+</div>
+
 
 ## 🏆 GitHub Trophies
 
